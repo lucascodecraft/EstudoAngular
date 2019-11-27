@@ -1,0 +1,7 @@
+.crop {
+  overflow: hidden;
+  color: goldenrod;
+}
+div {
+  cursor: pointer;
+}
